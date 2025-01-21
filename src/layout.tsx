@@ -1,5 +1,4 @@
-import { Tabs } from "antd";
-import { Outlet, useNavigate } from "react-router-dom";
+import { Outlet } from "react-router-dom";
 import Navbar from "./navbar";
 
 export default function Layout() {

@@ -5,10 +5,10 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./output.css";
-import Layout from "./Layout";
 import Home from "./home";
 import React from "react";
 import Professor from "./professor";
+import Layout from "./layout";
 
 const router = createHashRouter(
   createRoutesFromElements(
