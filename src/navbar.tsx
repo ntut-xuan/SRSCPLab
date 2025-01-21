@@ -12,7 +12,7 @@ export default function Navbar() {
             SRSCPLab
           </a>
         </div>
-        <div className="overflow-x-scroll flex flex-row justify-start gap-12">
+        <div className="overflow-x-auto flex flex-row justify-start gap-12">
           <div>
             <a
               className="text-white underline decoration-transparent hover:decoration-inherit transition-all ease-in duration-200"
